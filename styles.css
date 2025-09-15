@@ -460,9 +460,11 @@ FEATURES
     width: 24px;
     height: 24px;
   }
+  
   .feature__text {
     margin-top: 8px;
     margin-left: 16px;
+
   }
   .feature__para {
     margin-top: 16px;
